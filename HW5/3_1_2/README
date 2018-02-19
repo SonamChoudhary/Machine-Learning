@@ -1,0 +1,2 @@
+Due to many epocs and learning rate parameters this program takes longer than usual to run.
+And for the training and test data the code is same just have to pass the respective files as system arguments as mentioned in run.sh
